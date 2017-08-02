@@ -6,7 +6,7 @@ Goals of Learning:
 2. Study examples with JSON strings and files.
 
 
-Data Source: Springboard provides the dataset 'data/world_bank_projects.json'
+<p>Data Source: Springboard provides the dataset 'data/world_bank_projects.json'</p>
 
 
 Application used to code: Jupyter Notebook
