@@ -16,3 +16,6 @@
 
 # All exercise instructions are specified in: (also provided by Springboard)
         sliderule_dsi_json_exercise.ipynb
+
+# Solutions to the exercise are located in:
+        World_Bank_Projects_JSON.ipynb
